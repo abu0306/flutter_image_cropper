@@ -13,7 +13,7 @@ import 'options.dart';
 ///
 /// A convenient class wraps all api functions of **ImageCropper** plugin
 ///
-/// 
+///
 /// 已修改
 class ImageCropper {
   static const MethodChannel _channel =
